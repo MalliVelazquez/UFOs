@@ -1,4 +1,3 @@
-
 // from data.js
 const tableData = data;
 
@@ -40,7 +39,6 @@ function updateFilters() {
 
     // 4c. Save the id of the filter that was changed as a variable.
     let filterId = elementChange.attr("id");
-    console.log(filterId);
   
     // 5. If a filter value was entered then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
@@ -79,4 +77,4 @@ function updateFilters() {
 d3.selectAll("input").on("change", updateFilters);
 
 // Build the table when the page loads
-  buildTable(tableData);    
+  buildTable(tableData);
