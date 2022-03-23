@@ -8,3 +8,8 @@ Main objective of this challenge is to create a web page that makes searching a 
 
 ## Results
 
+First, we add images to the head so visually is more attractive
+
+![MainPage](https://user-images.githubusercontent.com/96633294/159615864-f136cfc4-50ee-4fca-a00b-b497e63c80c8.png)
+
+We can check at the page, main information about UFOs and a short introduction to the topic wich is amazing to attrack the attention of the user 
